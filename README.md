@@ -20,11 +20,17 @@
 
     1. 另开一个空白word文档或Markdown文件，在新文档中粘贴样例并填空，请注意阅读每一部分的复制说明，文档以署名（不必真名，如是老师来稿请特别注明老师二字）-所属篇目大标题小标题命名，**将文稿发至各位主编邮箱**（挑一个发就好了，排名不分先后，发邮箱就好了不用添加好友）。
     > 主编一号 <1621843180@qq.com>
-	主编二号 <3851532189@qq.com>
-	主编三号 <lbyxiaolizi@msn.com>
-	主编四号 <845290271@qq.com>
-	主编五号 <minshuocao25@gmail.com>
-
+	 >
+	 > 主编二号 <3851532189@qq.com>
+	 >
+	 > 主编三号 <lbyxiaolizi@msn.com>
+    >
+    > 主编四号 <845290271@qq.com>
+    >
+    > 主编五号 <minshuocao25@gmail.com>
+    >
+    > 主编六号 <1692019412@qq.com>
+   
     2. 方式同1，将文稿发至[Github仓库](https://github.com/ycez-onelife-clear/ycez-onelife-clear/)的issues区
    
     3. > **如果你可以熟练的使用Git的Clone与Merge，以及熟练的使用Github，我们推荐你以此方式投稿！**
